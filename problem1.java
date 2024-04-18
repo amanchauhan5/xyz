@@ -1,4 +1,6 @@
 public class problem1 {
+
+    //aman added
     public static void main(String[] args) {
     Solution solution = new Solution();
     String a = "classrooms";

@@ -1,4 +1,4 @@
-public class List {
+ class List {
 	static Node head;
 
 	static void Node(int d) {
